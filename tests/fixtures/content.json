@@ -1,0 +1,231 @@
+{
+  "products": [
+    {
+      "id": "masterbatch",
+      "title": "Antibacterial Masterbatch",
+      "paragraphs": [
+        "Engineered for powerful antibacterial performance and excellent processability, this technology integrates easily with a wide range of resins and manufacturing methods.",
+        "99.9% antibacterial efficacy (ISO-tested) compatible with PP, ABS, Nylon, PE, PET, and other plastics.",
+        "Supports injection, extrusion, spinning, and blow molding.",
+        "Safe & eco-friendly: non-leaching and harmless to humans, animals, and water systems.",
+        "Customizable: base material, active content, color, and additives tailored to your needs."
+      ],
+      "image": "masterbatch",
+      "category": "materials"
+    },
+    {
+      "id": "liquid-concentrate",
+      "title": "Antibacterial Liquid Concentrate",
+      "paragraphs": [
+        "Uniformly dispersed for reliable antibacterial performance and easy customization across applications.",
+        "High concentration: Effective even when diluted.",
+        "Versatile platform: Ideal for sprays, coatings, and cleaning products.",
+        "Easy integration: Fits seamlessly into existing production lines.",
+        "Safe & eco-friendly: Free of silver and harmful metals."
+      ],
+      "image": "liquid-concentrate",
+      "category": "materials"
+    },
+    {
+      "id": "disinfectant-spray",
+      "title": "Antibacterial Liquid / Disinfectant Spray",
+      "paragraphs": [
+        "Formulated with non-silver, low-odor, and non-toxic technology, this antibacterial solution provides fast, broad-spectrum protection against bacteria and viruses.",
+        "Ideal for public spaces, schools, offices, and factories, it can be customized for spray or surface cleaning applications to enhance hygiene and improve cleaning efficiency while minimizing environmental impact."
+      ],
+      "image": "disinfectant-spray",
+      "category": "cleaning"
+    },
+    {
+      "id": "food-processing",
+      "title": "Cleaning Solution for Food Processing Sites",
+      "paragraphs": [
+        "Designed for food processing plants, cafeterias, and kitchens, this solution targets grease, bacteria, and mold in high-hygiene environments.",
+        "Our antibacterial functional mother liquid works with cleaning agents to remove grease, disinfect surfaces, and prevent mold growth — all without silver compounds, avoiding corrosion or discoloration."
+      ],
+      "image": "food-processing",
+      "category": "cleaning"
+    },
+    {
+      "id": "daily-cleaning",
+      "title": "Daily Cleaning Solution",
+      "paragraphs": [
+        "Maintaining hygiene in schools, offices, and public facilities requires efficient daily cleaning.",
+        "Our antibacterial liquid enhances regular cleaning solutions by providing antibacterial and deodorizing effects, while remaining non-silver, low-odor, and non-toxic.",
+        "Formulations can be adjusted to suit specific applications, improving both cleaning efficiency and hygiene standards without harming materials or equipment."
+      ],
+      "image": "daily-cleaning",
+      "category": "cleaning"
+    },
+    {
+      "id": "wet-wipes",
+      "title": "Wet Wipes and Sanitary Cloths",
+      "paragraphs": [
+        "Our antibacterial solution provides strong, long-lasting protection for woven and nonwoven fabrics.",
+        "It’s water-based, low-irritation, and available in both alcohol and non-alcohol formulas.",
+        "Can be combined with moisturizing or fragrance ingredients to enhance comfort and hygiene."
+      ],
+      "image": "wet-wipes",
+      "category": "cleaning"
+    },
+    {
+      "id": "coating-agent",
+      "title": "Antibacterial Coating Agent",
+      "paragraphs": [
+        "Our antibacterial coating forms a durable, transparent layer that inhibits bacteria and virus growth on frequently touched surfaces such as doorknobs, handrails, and counters.",
+        "It offers excellent water and abrasion resistance, is easy to reapply, and helps maintain long-term cleanliness and hygiene in public and commercial spaces."
+      ],
+      "image": "coating-agent",
+      "category": "cleaning"
+    },
+    {
+      "id": "pet-supplies",
+      "title": "Pet Supplies",
+      "paragraphs": [
+        "Our antibacterial masterbatch keeps pet bowls, litter boxes, toys, and brushes clean and odor-free for long periods.",
+        "It’s compatible with PE, PP, TPE, and ABS, suitable for injection molding, extrusion, and blow molding.",
+        "The formula is non-silver, odorless, and safe for pets.",
+        "OEM customization is available for color and concentration adjustments."
+      ],
+      "image": "pet-supplies",
+      "category": "applications"
+    },
+    {
+      "id": "livestock-facilities",
+      "title": "Livestock Facilities",
+      "paragraphs": [
+        "Our antibacterial masterbatch helps maintain hygiene in feeders, tanks, flooring, and breeding equipment, reducing bacteria and odor buildup.",
+        "It also suppresses ammonia and hydrogen sulfide, improving air quality and the overall environment.",
+        "Highly moldable and safe for animals, it can be easily integrated into existing equipment.",
+        "OEM customization is available for additional functions and formulations."
+      ],
+      "image": "livestock-facilities",
+      "category": "applications"
+    },
+    {
+      "id": "textiles",
+      "title": "Automotive and Home Textiles",
+      "paragraphs": [
+        "Our antibacterial material provides long-lasting protection for textiles and resin products used in items such as car seats, steering wheel covers, sofas, and curtains.",
+        "It offers excellent dispersion during processing (extrusion, spinning, or casting), ensuring even antibacterial performance.",
+        "The material is durable, resistant to daily wear and washing, and helps enhance the value and longevity of textile products."
+      ],
+      "image": "textiles",
+      "category": "applications"
+    },
+    {
+      "id": "water-equipment",
+      "title": "Water Purification Equipment",
+      "paragraphs": [
+        "Our antibacterial masterbatch delivers long-lasting protection for water filters, tanks, and distribution systems without affecting water quality.",
+        "The non-silver, non-leaching formulation prevents metal corrosion and ensures stable antibacterial performance over time.",
+        "It offers high durability and thermal stability, making it ideal for injection molding and blow molding applications."
+      ],
+      "image": "water-equipment",
+      "category": "applications"
+    },
+    {
+      "id": "food-packaging",
+      "title": "Food Packaging",
+      "paragraphs": [
+        "Our antibacterial masterbatch combines safety and freshness for food packaging films, trays, and containers.",
+        "Formulated with non-silver, inorganic ingredients, it provides strong antibacterial protection while preventing migration into food.",
+        "The non-leaching design ensures long-term stability and preserves food quality, supporting both hygiene and extended shelf life.",
+        "It’s an ideal solution for maintaining freshness and enhancing the value of food brands."
+      ],
+      "image": "food-packaging",
+      "category": "applications"
+    }
+  ],
+  "solutions": [
+    {
+      "id": "water",
+      "title": "Water Purification",
+      "intro": [
+        "Sustainable Water Treatment Powered by Advanced Antibacterial Polymer Technology.",
+        "Advanced Biotech develops eco-friendly water purification systems designed to enhance water quality through large-molecule antibacterial polymers. Our solutions deliver safe, efficient, and sustainable performance across multiple applications."
+      ],
+      "uses": [
+        {
+          "title": "Disaster Relief",
+          "body": "Our mobile water purification units can produce safe drinking water within 30 minutes — without chemicals or external power — making them ideal for use after earthquakes, floods, and other emergencies."
+        },
+        {
+          "title": "Aquaculture",
+          "body": "Non-silver, non-eluting antibacterial filters help maintain clean, stable water quality, supporting healthy fish growth and long-term, sustainable aquaculture operations."
+        },
+        {
+          "title": "Urban and Environmental Water Systems",
+          "body": "Solar-powered, automated filtration systems prevent bacterial and biofilm buildup in rivers and drainage channels, preserving clean water and restoring natural balance with minimal energy use."
+        }
+      ],
+      "image": "water-solutions"
+    },
+    {
+      "id": "cleaning",
+      "title": "Disinfection & Cleaning",
+      "intro": [
+        "We develop customized disinfection and cleaning solutions using our antibacterial master liquid, tailored for specific environments, surfaces, and equipment. Each formulation balances strong antimicrobial performance with safety for people and materials."
+      ],
+      "uses": [
+        {
+          "title": "Public Spaces",
+          "body": "Ideal for high-contact areas such as door handles, handrails, tables, and counters in offices, schools, and public facilities. Our neutral, low-odor antibacterial base provides long-lasting protection against bacteria and viruses while remaining gentle on surfaces and the environment."
+        },
+        {
+          "title": "Food Processing",
+          "body": "Designed for production lines, workbenches, and packaging areas. The formula meets hygiene standards such as HACCP, effectively removing grease and preventing mold growth without corrosion or odor."
+        },
+        {
+          "title": "Schools & Educational Facilities",
+          "body": "Ensures clean, safe environments for classrooms, libraries, and gyms. Gentle, child-safe formulations protect health while maintaining high hygiene standards."
+        }
+      ],
+      "image": "cleaning-solutions"
+    },
+    {
+      "id": "livestock",
+      "title": "Livestock Hygiene",
+      "intro": [
+        "We provide safe, long-lasting antibacterial solutions to reduce pathogen risks in livestock environments, supporting sustainable and biosecure farming operations."
+      ],
+      "uses": [
+        {
+          "title": "Cowsheds",
+          "body": "In cowsheds, where humidity and waste can promote bacterial growth, our antibacterial mother liquid can be added to disinfectants and cleaners for use on floors, walls, feeding and watering systems, and milking equipment. It helps maintain a hygienic environment, reduces cleaning frequency and labor, and is non-toxic, low-odor, and safe for both workers and animals."
+        },
+        {
+          "title": "Mushroom Cultivation",
+          "body": "In mushroom cultivation, bacteria and mold on growing media or equipment can affect quality and yield. Our mild, water-based antibacterial solution provides up to 15 days of protection, preventing contamination while being safe for crops and workers."
+        },
+        {
+          "title": "Poultry and Eggs",
+          "body": "For poultry and eggs, our neutral, non-corrosive antibacterial formula keeps eggshells and equipment clean and protected. It prevents mold and bacterial growth, extends egg freshness, and reduces contamination risks during storage and transport."
+        }
+      ],
+      "image": "livestock-solutions"
+    },
+    {
+      "id": "textiles",
+      "title": "Textile Applications",
+      "intro": [
+        "We support the production of antibacterial polymer granules and textile products with durable antibacterial properties, combining comfort, safety, and long-term performance."
+      ],
+      "uses": [
+        {
+          "title": "Bedding",
+          "body": "In bedding, where fabrics stay in contact with the skin for long periods, our antibacterial masterbatch or mother liquid can be added directly into fibers or applied as a surface treatment. It prevents bacteria and mold caused by sweat and moisture, maintaining cleanliness and freshness even after repeated washing."
+        },
+        {
+          "title": "Automotive Interiors",
+          "body": "In automotive interiors, our technology keeps seats, trims, and mats clean and odor-free by preventing bacterial growth from daily use. It remains effective after friction and cleaning, ensuring a hygienic, comfortable cabin environment that’s safe for families and pets."
+        },
+        {
+          "title": "Workwear and Uniforms",
+          "body": "For workwear and uniforms, our antibacterial materials protect clothing used in factories, agriculture, and healthcare. They maintain antibacterial performance after repeated washing, reducing odor and contamination risks while being low-odor, non-irritating, and skin-safe."
+        }
+      ],
+      "image": "textile-solutions"
+    }
+  ]
+}
